@@ -20,6 +20,14 @@ As a writer, I've always been fascinated by the power of language to weave stori
 Intrigued by the ever-evolving tech landscape, I decided to delve into the world of coding. What started as a curiosity soon became a passion. I found the same sense of creativity and problem-solving that drew me to writing in the intricate lines of code. The transition from crafting narratives to crafting software felt like a natural progression.
 
 ## My Skills
+### Technical Skills
+
+{% include technicalskills.md %}
+
+### Soft skills
+
+{% include softskills.md %}
+
 
 ### Code is the New Prose
 
